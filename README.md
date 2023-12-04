@@ -31,6 +31,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me **prathamesh.kulkarni2398@gmail.com**
 
 - ⚡ Fun fact **I like watching European football.**
+  
+💻 Technology Stack:
+
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+![Static Badge](https://img.shields.io/badge/Pytorch-%23EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=%23EE4C2C&color=black)
+![Static Badge](https://img.shields.io/badge/Scikit-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E&color=blue)
+![Static Badge](https://img.shields.io/badge/Scipy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=%238CAAE6&color=yellow)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=Numpy&logoColor=%23013243&color=blue)
+[![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS&logoColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&color=blue)
+![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=%234479A1&color=black)
+![Static Badge](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=Keras&logoColor=%23D00000&color=green)
+![Static Badge](https://img.shields.io/badge/Tensorflow-%23FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=%23FF6F00&color=blue)
+![Static Badge](https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=OpenCV&logoColor=%235C3EE8&color=red)
+![Static Badge](https://img.shields.io/badge/Plotly-%233F4F75?style=for-the-badge&logo=Plotly&logoColor=%233F4F75&color=black)
+[![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)](https://github.com/features/actions)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&color=blue)
+![Static Badge](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4?style=for-the-badge&logoColor=%234285F4)
+![Static Badge](https://img.shields.io/badge/ApacheSpark-%23E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=%23E25A1C&color=green)
+![Static Badge](https://img.shields.io/badge/OpenAI-%23412991?style=for-the-badge&logo=OpenAI&logoColor=%23412991&color=red)
+![Static Badge](https://img.shields.io/badge/Postgres-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=%234169E1&color=black)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
