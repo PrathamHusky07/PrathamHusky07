@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 
 💫 About Me:
-- 🔭 I’m currently pursuing a Master's in Information Systems from Northeastern University.
-- 🌱 I’m interested in roles related to Analytics, Data Engineering, Data Science, Machine Learning & Artificial Intelligence
+- 🔭 Data Scientist with a Master's in Information Systems from Northeastern University.
+- 🌱 I’m interested in roles related to Analytics, Data Engineering, Data Science, Machine Learning & Artificial Intelligence.
 
 
 
+- 🚀 I'm passionate about building scalable Data Engineering and AI solutions for real-world impact.  
+- 📫 I’m currently exploring **Large Language Models(LLMs), Agentic AI and LLMOps**.
 
-- 📫 I’m currently working on **Developing Large Language Models(LLMs) using Generative AI**
-
-- 👯 I’m looking to collaborate on **Big Data Analytics, Data Science & Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Big Data Analytics, Data Science & Machine Learning Projects**.
 
 - 📫 How to reach me **prathamesh.kulkarni2398@gmail.com**
 
